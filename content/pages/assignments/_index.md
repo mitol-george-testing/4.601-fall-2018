@@ -1,0 +1,11 @@
+---
+content_type: page
+title: Assignments
+uid: 440b7e0a-d3d0-d909-e0f3-f7d1d958d58b
+---
+
+| Assignments | Due Dates |
+| --- | --- |
+|  {{< br >}}{{< br >}} \[First paper assignment not available on OpenCourseWare.\] {{< br >}}{{< br >}}  | Tuesday of Week 4 |
+|  {{< br >}}{{< br >}} [Second Paper: Authenticity](/courses/architecture/4-601-introduction-to-art-history-fall-2018/assignments/4.601-second-paper) {{< br >}}{{< br >}} In 1969, a committee of art historians called the Rembrandt Research Project (RRP) was convened to examine the more than 600 paintings then attributed to Rembrandt and to determine which were painted by the artist and which were not. {{< br >}}{{< br >}} In this assignment, students assess the issue of authenticity. What were some of the methods used by the RRP to attribute or deattribute paintings to Rembrandt, and why were/are they controversial? Why does it (or doesn’t it) matter whether the paintings under discussion are by Rembrandt? What is our investment as modern viewers in authenticity? {{< br >}}{{< br >}}  | Tuesday of Week 10 |
+|  {{< br >}}{{< br >}} [Final Paper: Photography/Impressionism](/courses/architecture/4-601-introduction-to-art-history-fall-2018/assignments/4.601-third-paper) {{< br >}}{{< br >}} In this assignment, students address one of the following two topics: {{< br >}}{{< br >}} 1\. What was the promise of the new technologies of photography and stereoscopy, and what were some of their problems, according to nineteenth-century commentators Charles Baudelaire and Oliver Wendell Holmes? What, in their view, is the relationship between these new media and art, and what impact do they predict these new techologies will have on art and its audiences? {{< br >}}{{< br >}} 2\. How did women Impressionist artists negotiate the condition of modernity and its spaces of femininity in their art? To answer these questions, students write a critical analysis of Griselda Pollock’s account of modernity and the spaces of femininity, and test her arguments by applying them to selected works of art. {{< br >}}{{< br >}}  | Thursday of Week 14
